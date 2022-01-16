@@ -3,6 +3,8 @@
 <!-- prettier-ignore-start -->
 - [Furkan Kapukaya](https://github.com/furkankapukayaa)
 Laura Langdon
+
+-[Ganesh Nitalikar](https://github.com/ganeshnitalikar)
 -[Anirvin Vaddiyar](https://github.com/anirvinv)
 -[MMT](https://github.com/MinMinThway)
 -[Red skull Coder](https://github.com/RedSkullCoder)
